@@ -1,4 +1,4 @@
-MultiPDFChat with RAG + Groq
+# MultiPDFChat with RAG + Groq
 
 ## Setup Instructions
 
